@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/akash-admin/static/css/main.fec20f65.css",
+    "main.js": "/akash-admin/static/js/main.e9fd3c11.js",
+    "static/media/profile.jpg": "/akash-admin/static/media/profile.bd087030544d5ae2481c.jpg",
+    "index.html": "/akash-admin/index.html",
+    "main.fec20f65.css.map": "/akash-admin/static/css/main.fec20f65.css.map",
+    "main.e9fd3c11.js.map": "/akash-admin/static/js/main.e9fd3c11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fec20f65.css",
+    "static/js/main.e9fd3c11.js"
+  ]
+}
